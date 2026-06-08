@@ -81,9 +81,7 @@ I'm a passionate **Software & AI Engineer** and fresher, currently channeling my
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Susheel929&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susheel929&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" />
+<img src="https://github-stats-alpha.vercel.app/api?username=Susheel929&cc=000&tc=fff&ic=fff&bc=000" height="180"/>
 
 </div>
 
