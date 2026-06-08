@@ -74,44 +74,52 @@ I'm a passionate **Software & AI Engineer** and fresher, currently channeling my
 </div>
 
 ---
+<!-- GitHub Stats -->
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SusheelKumarG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelKumarG&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SusheelKumarG&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SusheelKumarG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelKumarG&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 
 </div>
 
 ---
+
+<!-- Streak Stats -->
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=SusheelKumarG&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+---
+
+<!-- Trophies -->
+<div align="center">
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SusheelKumarG&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=SusheelKumarG&theme=darkhub&no-frame=true&column=7&margin-w=10" />
 
 </div>
 
 ---
+
+<!-- Snake Contribution Graph -->
+<div align="center">
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SusheelKumarG/SusheelKumarG/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SusheelKumarG/SusheelKumarG/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SusheelKumarG/SusheelKumarG/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SusheelKumarG/SusheelKumarG/output/github-snake.svg" />
+</picture>
 
 </div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
