@@ -24,6 +24,7 @@ I'm a passionate **Software & AI Engineer** and fresher, currently channeling my
 - 🔭 Currently working on **Aircraft Engine RUL Prediction** using CNN + LSTM hybrid pipelines
 - 💡 I enjoy bridging the gap between theoretical ML concepts and production-ready software engineering
 - 🌱 Always learning — whether it's a new framework, a research paper, or a design pattern
+- ☁️ Exploring **Cloud Computing** — from deploying ML models on AWS to understanding scalable cloud-native architectures
 - ⚡ Fun fact: I believe a well-trained model and clean code are both forms of art
 
 ---
@@ -48,6 +49,12 @@ I'm a passionate **Software & AI Engineer** and fresher, currently channeling my
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ☁️ Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
