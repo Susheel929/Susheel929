@@ -105,10 +105,9 @@ I'm a passionate **Software & AI Engineer** and fresher, currently channeling my
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Susheel929&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Susheel929&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
-
 ---
 
 <!-- Snake Contribution Graph -->
