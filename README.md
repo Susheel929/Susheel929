@@ -105,7 +105,7 @@ I'm a passionate **Software & AI Engineer** and fresher, currently channeling my
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Susheel929&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Susheel929&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 ---
